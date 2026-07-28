@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Алтай День 8 (9.08) — Чепош → аэропорт</name>
+  <Placemark><name>✈️ Аэропорт Горно-Алтайск (RGK)</name><description>Вылет SU 1519 в 19:00. Выезд из Чепош Парка не позднее 15:00. Сдача авто ~30 мин.</description><Point><coordinates>85.8332,51.9670,0</coordinates></Point></Placemark>
+</Document>
+</kml>

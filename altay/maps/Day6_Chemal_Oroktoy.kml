@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Алтай День 6 (7.08) — Чемал, Че-Чкыш, Ороктой</name>
+  <Placemark><name>1. Зубы Дракона (Элекмонар)</name><description>Скалы в Катуни, фото с подвесного моста. 20-30 мин.</description><Point><coordinates>85.9860,51.4753,0</coordinates></Point></Placemark>
+  <Placemark><name>2. Пасека №13 (Чемал)</name><description>Бесплатная дегустация ~10 сортов мёда. 30-40 мин.</description><Point><coordinates>85.9827,51.4302,0</coordinates></Point></Placemark>
+  <Placemark><name>3. Остров Патмос</name><description>Подвесной мост к храму. Парковка со стороны ГЭС проще.</description><Point><coordinates>86.0006,51.3958,0</coordinates></Point></Placemark>
+  <Placemark><name>4. Козья тропа</name><description>~1 км вдоль скалы, соединяет Патмос и ГЭС. Идти дважды (туда-обратно).</description><Point><coordinates>86.0027,51.3968,0</coordinates></Point></Placemark>
+  <Placemark><name>5. Чемальская ГЭС</name><description>Тарзанка, сувениры, кафе.</description><Point><coordinates>86.0052,51.3912,0</coordinates></Point></Placemark>
+  <Placemark><name>6. Урочище Че-Чкыш (вход)</name><description>Трекинг к водопаду ~2 км + смотровая «Долина горных духов».</description><Point><coordinates>86.0717,51.2616,0</coordinates></Point></Placemark>
+  <Placemark><name>7. Ороктойский мост</name><description>Самое узкое место Катуни, ущелье 70+ м. 20-30 мин.</description><Point><coordinates>86.1657,51.1231,0</coordinates></Point></Placemark>
+  <Placemark><name>🏨 «Чепош Парк» 4⭐</name><description>Ночь 2 из 3. Вечером бассейн и SPA.</description><Point><coordinates>85.8500,51.5763,0</coordinates></Point></Placemark>
+</Document>
+</kml>

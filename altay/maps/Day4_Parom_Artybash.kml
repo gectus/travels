@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Алтай День 4 (5.08) — Паром и Артыбаш</name>
+  <Placemark><name>1. Посадка на паром (мыс Кырсай)</name><description>Погрузка с 7:00, отправление 7:45. Паромщик +7-923-666-36-36. 16 000 руб., забронировано.</description><Point><coordinates>87.7471,51.3651,0</coordinates></Point></Placemark>
+  <Placemark><name>2. Прибытие парома — Артыбаш</name><description>~13:00-13:30. Кафе, магазины, связь.</description><Point><coordinates>87.2670,51.7930,0</coordinates></Point></Placemark>
+  <Placemark><name>3. Водопад Третьей речки (начало тропы)</name><description>1,2 км в обе стороны, лёгкая прогулка, бесплатно.</description><Point><coordinates>87.3238,51.7921,0</coordinates></Point></Placemark>
+  <Placemark><name>4. Канатка «Телецкий» (гора Кокуя, Иогач)</name><description>Подъёмник 1300 м, до 18:00, дети до 10 лет бесплатно.</description><Point><coordinates>87.2200,51.7770,0</coordinates></Point></Placemark>
+  <Placemark><name>5. Зоопарк «Таёжный»</name><description>Медведи, волки, лисы, пумы. ~700/350 руб.</description><Point><coordinates>87.2750,51.7930,0</coordinates></Point></Placemark>
+  <Placemark><name>🏨 Отель «Телецкое золотое» (Артыбаш)</name><description>Ночь 5-6 авг, коттедж, 25 700 руб. Телецкая ул., 100. Тел. +7-968-226-77-11. Заказ YA-2356-4106-2781. Без питания!</description><Point><coordinates>87.2670,51.7930,0</coordinates></Point></Placemark>
+</Document>
+</kml>

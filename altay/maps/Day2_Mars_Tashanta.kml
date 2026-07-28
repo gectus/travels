@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Алтай День 2 (3.08) — Марс и Ташанта</name>
+  <Placemark><name>1. Гейзерное озеро</name><description>Заехать до 8:00, тропа 500 м от дороги.</description><Point><coordinates>87.6700,50.2899,0</coordinates></Point></Placemark>
+  <Placemark><name>2а. Поворот на смотровую у Курая</name><description>Неприметный съезд на грунтовку без указателей. НЕ платная смотровая!</description><Point><coordinates>87.8685,50.2511,0</coordinates></Point></Placemark>
+  <Placemark><name>2б. Смотровая на возвышенности у Курая (1560 м)</name><description>Панорама Северо-Чуйского хребта + гигантская рябь мегапотопа. ~30 мин.</description><Point><coordinates>87.8709,50.2344,0</coordinates></Point></Placemark>
+  <Placemark><name>3а. Поворот с тракта на Марс</name><description>Съезд к Кызыл-Чину.</description><Point><coordinates>88.3724,50.1011,0</coordinates></Point></Placemark>
+  <Placemark><name>3б. Кызыл-Чин «Марс-1»</name><description>Брод через речку проходим для GL. До Марса-2 пешком ~3 км.</description><Point><coordinates>88.2964,50.0598,0</coordinates></Point></Placemark>
+  <Placemark><name>4. Кош-Агач</name><description>Самый южный крупный посёлок. АЗС «Опти».</description><Point><coordinates>88.6664,50.0103,0</coordinates></Point></Placemark>
+  <Placemark><name>5. Ташанта</name><description>Конец Чуйского тракта, знак «Монголия». Нужен погранпропуск!</description><Point><coordinates>89.1750,49.7194,0</coordinates></Point></Placemark>
+  <Placemark><name>🏨 Отель «Речные земли» (Акташ)</name><description>Ночь 2 из 2.</description><Point><coordinates>87.5830,50.3100,0</coordinates></Point></Placemark>
+</Document>
+</kml>

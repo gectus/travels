@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Алтай День 1 (2.08) — Чуйский тракт до Акташа</name>
+  <Placemark><name>1. Семинский перевал (1717 м)</name><description>Кедровый лес, кафе, туалет. Короткая остановка.</description><Point><coordinates>85.6046,51.0455,0</coordinates></Point></Placemark>
+  <Placemark><name>2. Перевал Чике-Таман (1295 м)</name><description>Смотровая площадка, серпантин.</description><Point><coordinates>86.3121,50.6450,0</coordinates></Point></Placemark>
+  <Placemark><name>3. Слияние Чуи и Катуни</name><description>Два потока разного цвета, смотровая у дороги.</description><Point><coordinates>86.6738,50.3952,0</coordinates></Point></Placemark>
+  <Placemark><name>4. Белый Бом</name><description>Белые скалы, ущелье Чуи (км 741).</description><Point><coordinates>86.8450,50.3650,0</coordinates></Point></Placemark>
+  <Placemark><name>5. Петроглифы Калбак-Таш</name><description>~5000 наскальных рисунков, экскурсия 40-60 мин.</description><Point><coordinates>86.8186,50.4013,0</coordinates></Point></Placemark>
+  <Placemark><name>🏨 Отель «Речные земли» (Акташ)</name><description>Ночёвки 2-4 августа, 2 номера. Ручные лисы на территории.</description><Point><coordinates>87.5830,50.3100,0</coordinates></Point></Placemark>
+</Document>
+</kml>

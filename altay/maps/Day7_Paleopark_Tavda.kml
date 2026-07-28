@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Алтай День 7 (8.08) — Палеопарк, ферма, пещеры</name>
+  <Placemark><name>1. Палеопарк (Элекмонар)</name><description>Скелеты динозавров. 300/200 руб., до 5 лет бесплатно. 10:00-20:00.</description><Point><coordinates>85.9806,51.4916,0</coordinates></Point></Placemark>
+  <Placemark><name>2. Лохматая ферма (Узнезя)</name><description>Контактный зоопарк: верблюды, яки, маралы. ~600 руб. 10:00-18:00.</description><Point><coordinates>85.9510,51.5100,0</coordinates></Point></Placemark>
+  <Placemark><name>3. Тавдинские пещеры</name><description>Оборудованные, с подсветкой, ~40 мин. Тёплая одежда (+10°C).</description><Point><coordinates>85.7306,51.7761,0</coordinates></Point></Placemark>
+  <Placemark><name>4. «Бирюзовая Катунь»</name><description>Пляж с тёплой водой, пасека. 1-2 часа.</description><Point><coordinates>85.7400,51.7870,0</coordinates></Point></Placemark>
+  <Placemark><name>☔ Запасной: аквапарк «Турсиб»</name><description>Крытый аквапарк, вт-вс 10:00-20:00. На случай дождя.</description><Point><coordinates>85.9139,51.5515,0</coordinates></Point></Placemark>
+  <Placemark><name>🏨 «Чепош Парк» 4⭐</name><description>Ночь 3 из 3, последняя. Сборы.</description><Point><coordinates>85.8500,51.5763,0</coordinates></Point></Placemark>
+</Document>
+</kml>

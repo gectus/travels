@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Алтай День 3 (4.08) — Кату-Ярык и Чулышман</name>
+  <Placemark><name>0. АЗС «Опти» Акташ — ПОЛНЫЙ БАК!</name><description>Дальше 250 км без заправок. Купить еду на 2 дня, наличные.</description><Point><coordinates>87.5830,50.3100,0</coordinates></Point></Placemark>
+  <Placemark><name>1. «Красные ворота»</name><description>Фото-стоп.</description><Point><coordinates>87.6336,50.3645,0</coordinates></Point></Placemark>
+  <Placemark><name>2. Озеро Чейбеккёль</name><description>Живописное горное озеро.</description><Point><coordinates>87.6076,50.3978,0</coordinates></Point></Placemark>
+  <Placemark><name>3. Улаганский перевал (2080 м)</name><description>Высокогорная тундра.</description><Point><coordinates>87.6555,50.4996,0</coordinates></Point></Placemark>
+  <Placemark><name>4. Смотровая перед Кату-Ярыком (скала)</name><description>~1,5 км до перевала, слева. Вид эффектнее основной смотровой!</description><Point><coordinates>88.2029,50.9069,0</coordinates></Point></Placemark>
+  <Placemark><name>5. Кату-Ярык — смотровая и начало спуска</name><description>Спуск 3,9 км, 9 серпантинов, уклон до 18%. Пониженная передача! Пассажиры пешком.</description><Point><coordinates>88.2179,50.9100,0</coordinates></Point></Placemark>
+  <Placemark><name>6. Водопад Куркуре (30 м)</name><description>Виден от подножья, короткая прогулка.</description><Point><coordinates>88.2557,50.9002,0</coordinates></Point></Placemark>
+  <Placemark><name>7. Каменные грибы (Ак-Корум)</name><description>Лодка через Чулышман 500-1000 руб. + подъём 30-40 мин.</description><Point><coordinates>87.9730,51.1117,0</coordinates></Point></Placemark>
+  <Placemark><name>🏨 Глэмпинг «Выше гор» (мыс Кырсай)</name><description>Ночь 4-5 авг, юрта, 14 000 руб. Бронь 20260804-36588-426540319. Тел. 8-999-475-17-65. Адрес: ул. Мыс Кырсай, 7а, Балыкча.</description><Point><coordinates>87.7527,51.3516,0</coordinates></Point></Placemark>
+</Document>
+</kml>
