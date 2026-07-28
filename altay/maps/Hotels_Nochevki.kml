@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Алтай — Ночёвки (все брони)</name>
+  <Placemark>
+    <name>🏨 1-2. Отель «Речные земли» (Акташ)</name>
+    <description>2-4 августа, 2 ночи, 2 номера = 92 000 руб. Забронировано. Дизайн-отель 3*, ручные лисы на территории.</description>
+    <Point><coordinates>87.5830,50.3100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>🛖 3. Глэмпинг «Выше гор» (мыс Кырсай)</name>
+    <description>4-5 августа, 1 ночь, алтайская юрта = 14 000 руб. Бронь № 20260804-36588-426540319, код S2684N3. Тел. 8-999-475-17-65, 8-983-324-12-34. Адрес: ул. Мыс Кырсай, 7а, с. Балыкча. Заезд после 15:00. Утром 5.08 — паром в 7:00!</description>
+    <Point><coordinates>87.7527,51.3516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>🏨 4. Отель «Телецкое золотое» (Артыбаш)</name>
+    <description>5-6 августа, 1 ночь, коттедж стандарт = 25 700 руб. Заказ Яндекс.Путешествия YA-2356-4106-2781. Адрес: Телецкая ул., 100. Тел. +7-968-226-77-11. Заезд с 15:00. Без питания. Паспорта РФ на всех!</description>
+    <Point><coordinates>87.2670,51.7930,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>🏨 5-7. «Чепош Парк» 4⭐ (с. Чепош)</name>
+    <description>6-9 августа, 3 ночи, 2 номера «Модом Комфорт с террасой» = 190 000 руб. Заезд 6.08 с 15:00, выезд 9.08 до 12:00. Завтраки в номере 1. Бассейн 25×16, бани, SPA. cheposhpark.ru</description>
+    <Point><coordinates>85.8500,51.5763,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>
